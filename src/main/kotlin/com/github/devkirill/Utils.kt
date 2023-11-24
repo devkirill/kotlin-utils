@@ -1,3 +1,5 @@
+package com.github.devkirill
+
 import java.io.File
 import java.lang.Integer.min
 import java.math.BigInteger
